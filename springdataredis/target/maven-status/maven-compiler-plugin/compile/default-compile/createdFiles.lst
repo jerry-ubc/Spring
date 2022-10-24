@@ -1,0 +1,4 @@
+com\learning\springdataredis\repository\ProductDao.class
+com\learning\springdataredis\config\RedisConfig.class
+com\learning\springdataredis\entity\Product.class
+com\learning\springdataredis\SpringdataredisApplication.class
