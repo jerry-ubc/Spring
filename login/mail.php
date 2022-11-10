@@ -17,7 +17,7 @@ function send_mail($recipient,$subject,$message)
   $mail->Host       = "smtp.gmail.com";
   //$mail->Host       = "smtp.mail.yahoo.com";
   $mail->Username   = "myemail@gmail.com";
-  $mail->Password   = "ajkmmzquowtdvajr";
+  $mail->Password   = "google app password";
 
   $mail->IsHTML(true);
   $mail->AddAddress($recipient, "esteemed customer");
